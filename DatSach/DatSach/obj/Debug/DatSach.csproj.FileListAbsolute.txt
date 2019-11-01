@@ -1,0 +1,9 @@
+F:\DatSach\DatSach\bin\Debug\DatSach.exe.config
+F:\DatSach\DatSach\bin\Debug\DatSach.exe
+F:\DatSach\DatSach\bin\Debug\DatSach.pdb
+F:\DatSach\DatSach\obj\Debug\DatSach.csprojResolveAssemblyReference.cache
+F:\DatSach\DatSach\obj\Debug\DatSach.Form1.resources
+F:\DatSach\DatSach\obj\Debug\DatSach.Properties.Resources.resources
+F:\DatSach\DatSach\obj\Debug\DatSach.csproj.GenerateResource.Cache
+F:\DatSach\DatSach\obj\Debug\DatSach.exe
+F:\DatSach\DatSach\obj\Debug\DatSach.pdb
